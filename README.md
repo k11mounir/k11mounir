@@ -1,18 +1,21 @@
 ### Hi there, I'm Khadija Mounir 👋
 
-<!--
-**k11mounir/k11mounir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![HitCount](http://hits.dwyl.com/k11mounir/k11mounir.svg)](http://hits.dwyl.com/k11mounir/k11mounir)
 
-Here are some ideas to get you started:
+I'm Khadija Mounir. I'm a computer engineering student and I'm looking for a graduation internship in web development.
+I'm passionate about new technologies and i have a great ability to learn new things and contribute positively to projects.
 
-### 🔭 I’m currently a fullstack software engineer student
-- 🌱 I’m currently learning ...
+### 📫 How to reach me
+ ✉ **khadija11mounir@gmail.com**
+ 
+
+### 🌱 I’m currently learning
+
+<!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
