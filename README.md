@@ -10,7 +10,7 @@ I'm passionate about new technologies and i have a great ability to learn new th
  ✉ **khadija11mounir@gmail.com**
  
 
-### 🌱 I’m currently learning
+<!### 🌱 I’m currently learning
 
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
