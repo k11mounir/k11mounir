@@ -7,7 +7,7 @@ I'm Khadija Mounir. I'm a computer engineering student and I'm looking for a gra
 I'm passionate about new technologies and i have a great ability to learn new things and contribute positively to projects.
 
 ### 📫 How to reach me
- ✉ **khadija11mounir@gmail.com**
+   **khadija11mounir@gmail.com**
  
 
 
