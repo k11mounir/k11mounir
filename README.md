@@ -3,7 +3,7 @@
 
 <!--[![HitCount](http://hits.dwyl.com/k11mounir/k11mounir.svg)](http://hits.dwyl.com/k11mounir/k11mounir)-->
 
-I'm Khadija Mounir. I'm a computer engineering student and I'm looking for a job opportunity in web development.
+I'm Khadija Mounir. I'm a computer engineering and I'm looking for a job opportunity in web development.
 I'm passionate about new technologies and i have a great ability to learn new things and contribute positively to projects.
 
 ### 📫 How to reach me
